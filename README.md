@@ -12,6 +12,6 @@ yarn
 yarn test
 ```
 
-The web app now should be running 3 test cases
+It should be running 3 test cases
 
 
